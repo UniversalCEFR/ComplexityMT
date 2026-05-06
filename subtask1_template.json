@@ -1,0 +1,20 @@
+{
+  "contributor": "abdullah",
+  "mt_system": "gpt-5.4",
+  "granularity": "document",
+  "results": [
+    {
+      "title": "La Tour Eiffel",
+      "source_name": "kwiziq",
+      "text": "La Tour Eiffel est l'un des monuments les plus visités au monde...",
+      "src_lang": "fr",
+      "src_cefr": "A1",
+      "tgt_lang": "en",
+      "score": {
+        "cometkiwi23": 0.86,
+        "xcomet_xl": 0.79,
+        "metricx23_qe": 1.42
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "contributor": "joseph",
+  "mt_system": "gpt-5.4",
+  "granularity": "sentence",
+  "cefr_classifier": "UniversalCEFR/xlm-roberta-base-cefr-all-classifier",
+  "results": [
+    {
+      "title": "NA",
+      "source_name": "readme",
+      "text": "Rising global temperatures have accelerated over the past decade...",
+      "src_lang": "en",
+      "src_cefr": "B2",
+      "tgt_lang": "fr",
+      "tgt_cefr": "B1",
+      "back_cefr": "B2"
+    }
+  ]
+}
