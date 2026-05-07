@@ -9,6 +9,7 @@
       "source_name": "readme",
       "src_lang": "en",
       "src_cefr": "B2",
+      "src_pred_cefr": "B1",
       "src_text": "Rising global temperatures have accelerated over the past decade...",
       "tgt_lang": "fr",
       "tgt_cefr": "B1",
