@@ -1,0 +1,35 @@
+{
+  "contributor": "joseph",
+  "mt_system": "gpt-5.4",
+  "cefr_classifier": "UniversalCEFR/xlm-roberta-base-cefr-all-classifier",
+  "results": [
+    {
+      "granularity": "sentence",
+      "title": "NA",
+      "source_name": "readme",
+      "src_lang": "en",
+      "src_cefr": "B2",
+      "src_pred_cefr": "B1",
+      "src_text": "Rising global temperatures have accelerated over the past decade...",
+      "tgt_lang": "fr",
+      "tgt_cefr": "B1",
+      "tgt_text": "La hausse des températures mondiales s'est accélérée au cours de la dernière décennie...",
+      "back_cefr": "B2",
+      "back_text": "Rising global temperatures have accelerated over the last decade..."
+    },
+    {
+      "granularity": "document",
+      "title": "Climate Change Report",
+      "source_name": "elg-cefr-en",
+      "src_lang": "en",
+      "src_cefr": "C1",
+      "src_pred_cefr": "B2",
+      "src_text": "The cumulative impact of anthropogenic emissions has resulted in...",
+      "tgt_lang": "fr",
+      "tgt_cefr": "B2",
+      "tgt_text": "L'impact cumulé des émissions anthropiques a entraîné...",
+      "back_cefr": "C1",
+      "back_text": "The cumulative impact of human-induced emissions has led to..."
+    }
+  ]
+}
