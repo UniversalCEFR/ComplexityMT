@@ -48,7 +48,9 @@ The benchmark is organised around two complementary tasks:
 
 ## Quick start
 
-ComplexityMT runs from the released JSON submissions; **no GPU, no network, and no API keys are required** to reproduce the headline numbers.
+This repository ships the **released JSON submissions** for both tasks together with two lightweight post-hoc analysis scripts that reproduce the headline numbers from them. The two bundled scripts run on CPU only and only need `numpy` and `scipy`.
+
+> **What is and is not in this repository.** The bundled scripts compute the paper's headline statistics from the already-generated JSON submissions. The upstream pipeline that *produces* those JSONs — querying the MT systems (closed APIs and open-weight Hugging Face checkpoints), scoring translations with COMET and GEMBA-DA, and running the XLM-R CEFR classifier on the UniversalCEFR data — requires a GPU, API keys (e.g., OpenAI, Google Translate, OpenRouter), and a Hugging Face token. That generation code is not part of this release; only the released submissions and the post-hoc analysis scripts are.
 
 ```bash
 git clone https://github.com/UniversalCEFR/ComplexityMT.git
