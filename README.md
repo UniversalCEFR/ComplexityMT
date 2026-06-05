@@ -172,7 +172,12 @@ If you use ComplexityMT in your research, please cite:
 
 ## License
 
-Code and data in this repository are released for research purposes. License details to be added.
+Code and data in this repository are released under the
+[**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+In short: you may share and adapt the material for non-commercial purposes,
+provided you give appropriate credit and distribute your contributions under
+the same license. See the [LICENSE](LICENSE) file for the full legal text.
 
 ## Contact
 
